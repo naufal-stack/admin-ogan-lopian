@@ -1,0 +1,68 @@
+[
+        {
+            "id": "632",
+            "npsn": "20258169",
+            "nama": "SLB YAKALIMU",
+            "alamat": "Jl. E. SULAEMAN Rt. 13/Rw. 04",
+            "desa": "WANASARI",
+            "kecamatan": "WANAYASA",
+            "jenjang": "SLB",
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": "483",
+            "npsn": "20258288",
+            "nama": "SLB N KAPTEN HALIM",
+            "alamat": "Jl Kapten Halim Purwakarta",
+            "desa": "SINDANGKASIH",
+            "kecamatan": "PURWAKARTA",
+            "jenjang": "SLB",
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": "442",
+            "npsn": "20258253",
+            "nama": "SLB N PURWAKARTA",
+            "alamat": "Jl Veteran Gg Beringin No2",
+            "desa": "NAGRIKALER",
+            "kecamatan": "PURWAKARTA",
+            "jenjang": "SLB",
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": "353",
+            "npsn": "20253160",
+            "nama": "SLB ABCD BUDI UTAMA",
+            "alamat": "Kp. Warungkandang",
+            "desa": "P L E R E D",
+            "kecamatan": "PLERED",
+            "jenjang": "SLB",
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": "318",
+            "npsn": "20217457",
+            "nama": "SLB BINA INSANI ",
+            "alamat": "Jl. Terusan Kapten Halim",
+            "desa": "PASAWAHAN",
+            "kecamatan": "PASAWAHAN",
+            "jenjang": "SLB",
+            "lat": null,
+            "lng": null
+        },
+        {
+            "id": "67",
+            "npsn": "20217455",
+            "nama": "SLB B.C YDBA CIBENING",
+            "alamat": "Jl Raya Cibening 364",
+            "desa": "BUNGURSARI",
+            "kecamatan": "BUNGURSARI",
+            "jenjang": "SLB",
+            "lat": null,
+            "lng": null
+        }
+    ]

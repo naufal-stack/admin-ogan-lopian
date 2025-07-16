@@ -1,0 +1,2 @@
+# Reset Password Halo {{ $user->nama_lengkap }}, Anda menerima email ini karena kami menerima permintaan reset password untuk akun Anda. Silakan klik tombol di bawah ini untuk mereset password Anda: Reset Password Tautan reset password ini akan kedaluwarsa dalam {{ config('auth.passwords.registers.expire', 60) }} menit. Jika Anda tidak meminta reset password, Anda dapat mengabaikan email ini. Terima kasih,
+{{ config('app.name') }}
